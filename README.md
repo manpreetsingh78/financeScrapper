@@ -1,4 +1,4 @@
-# scrapper
+# financeScrapper
 It will scrap all the equities and will generate around 500+ excel files.
 
 1. Make sure you have Python and Chrome installed on your System before running it.
